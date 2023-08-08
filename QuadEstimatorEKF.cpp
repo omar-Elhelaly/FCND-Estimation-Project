@@ -3,7 +3,6 @@
 #include "Utility/SimpleConfig.h"
 #include "Utility/StringUtils.h"
 #include "Math/Quaternion.h"
-#include <iostream>
 
 using namespace SLR;
 
